@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "question": "How often do you visit our site? (1/5)",
+      "answers": [
+        "A couple of times a month",
+        "Once a week",
+        "Few times a week",
+        "Every day",
+        "Several times a day"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Are you comfortable using our site? (2/5)",
+      "answers": [
+        "Comfortable",
+        "Not very comfortable",
+        "Very uncomfortable"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Tell us what exactly you do not like? (3/5)",
+      "answers": []
+    },
+    {
+      "id": 6,
+      "question": "Tell us what you like most about our site? (3/5)",
+      "answers": []
+    },
+    {
+      "id": 4,
+      "question": "What changes would you like? (4/5)",
+      "answers": [
+        "Design change",
+        "Newsletter",
+        "Online consultations",
+        "Your answer"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Is there anything else you want to tell us? (5/5)",
+      "answers": []
+    }
+  ],
+  "answers": {
+    "page1": 0,
+    "page2": 0,
+    "page3": null,
+    "page4": {
+      "checked": [],
+      "textArea": ""
+    },
+    "page5": "",
+    "page6": ""
+  }
+}
